@@ -15,7 +15,5 @@
 ![MarcelloLM Status](https://github-readme-stats.vercel.app/api?username=MarcelloLM&show_icons=true&title_color=AE6DB1&icon_color=076EC8&text_color=99FFDC&bg_color=193549)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloLM&layout=compact&title_color=AE6DB1&icon_color=076EC8&text_color=99FFDC&bg_color=193549)](https://github.com/anuraghazra/github-readme-stats)
 
-![MarcelloLM Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarcelloLM&title_color=AE6DB1&icon_color=076EC8&text_color=99FFDC&bg_color=193549)
-
 
 </div>
